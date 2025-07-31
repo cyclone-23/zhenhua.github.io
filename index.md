@@ -19,7 +19,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience [View my Projects](projects.md) 
 
 ### 🏢 National Eye Institute, NIH — *Research Scientist* (2023–Present)
 - Developed CNN models (InceptionV3, ResNet50, etc.) for AO-ICG image classification
