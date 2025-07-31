@@ -27,7 +27,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Comparative Cancer Chemosensitivity Phenotypes using Low-Coherence Digital Holography</strong><br/>
       Zhen Hua et al., Scientific Reports, 2024<br/>
-      <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Read more</a> |
+      <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Paper</a> |
      <a href="https://github.itap.purdue.edu/Nolte-Group/onekey" target="_blank">Github</a>
     </td>
   </tr>
@@ -37,7 +37,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Development of Biodynamic Imaging for Phenotypic Profiling of Living Tissue</strong><br/>
       Zhen Hua, Ph.D. Thesis, Purdue University<br/>
-      <a href="assets/papers/Thesis_ZhenHua.pdf" target="_blank">Read more</a>
+      <a href="assets/papers/Thesis_ZhenHua.pdf" target="_blank">Thesis</a>
     </td>
   </tr>
 
@@ -46,7 +46,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Doppler Imaging Detects Bacterial Infection of Living Tissue</strong><br/>
       Honggu Choi, Zhen Hua et al., Communications Biology, 2021<br/>
-      <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Read more</a>
+      <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Paper</a>
     </td>
   </tr>
 
@@ -55,7 +55,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Intracellular doppler spectroscopy of live tissue sentinels for a fast in-vitro bacterial infection assay</strong><br/>
       Dawith Lim, Zhen Hua et al., Scientific Reports, 2025<br/>
-      <a href="assets/papers/scientific_reports_2025.pdf" target="_blank">Read more</a>
+      <a href="assets/papers/scientific_reports_2025.pdf" target="_blank">Paper</a>
     </td>
   </tr>
 
@@ -64,7 +64,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Chemosensitivity Testing of Revived Snap-Frozen Biopsies using Digital Speckle Holography</strong><br/>
       Zhen Hua, Asian Journal of Physics, 2022<br/>
-      <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Read more</a>
+      <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Paper</a>
     </td>
   </tr>
   
