@@ -25,7 +25,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td><img class="project-img" src="assets/img/ARVO_2025.png"/></td>
     <td class="project-text">
       <strong>Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG</strong><br/>
-      Zhen Hua, ARVO 2025<br/>
+      Zhen Hua, ARVO, 2025<br/>
       <a href="projects.html" target="_blank">Read more</a>
     </td>
   </tr>
@@ -42,7 +42,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
   <tr>
     <td><img class="project-img" src="assets/img/Thesis_ZhenHua.png"/></td>
     <td class="project-text">
-      <strong>Doppler Spectroscopy and Optical Simulation of Intracellular Transport</strong><br/>
+      <strong>Development of Biodynamic Imaging for Phenotypic Profiling of Living Tissue</strong><br/>
       Zhen Hua, Ph.D. Thesis, Purdue University<br/>
       <a href="assets/papers/Thesis_ZhenHua.pdf" target="_blank">Read more</a>
     </td>
@@ -52,7 +52,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td><img class="project-img" src="assets/img/Communications_Biology_2021.png"/></td>
     <td class="project-text">
       <strong>Doppler Imaging Detects Bacterial Infection of Living Tissue</strong><br/>
-      Zhen Hua et al., Communications Biology, 2021<br/>
+      Honggu Choi, Zhen Hua et al., Communications Biology, 2021<br/>
       <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Read more</a>
     </td>
   </tr>
@@ -60,8 +60,8 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
   <tr>
     <td><img class="project-img" src="assets/img/Scientific_Reports_2025.png"/></td>
     <td class="project-text">
-      <strong>Comparative Oncology Chemosensitivity Assay using Dynamic Light Scattering</strong><br/>
-      Zhen Hua et al., Scientific Reports, 2025<br/>
+      <strong>Intracellular doppler spectroscopy of live tissue sentinels for a fast in-vitro bacterial infection assay</strong><br/>
+      Dawith Lim, Zhen Hua et al., Scientific Reports, 2025<br/>
       <a href="assets/papers/scientific_reports_2025.pdf" target="_blank">Read more</a>
     </td>
   </tr>
@@ -69,7 +69,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
   <tr>
     <td><img class="project-img" src="assets/img/Asian_Journal_of_Physics_2022.png"/></td>
     <td class="project-text">
-      <strong>Dynamic Contrast Optical Coherence Tomography for Tumor Tissue Classification</strong><br/>
+      <strong>Chemosensitivity Testing of Revived Fresh-Frozen Biopsies using Digital Speckle Holography</strong><br/>
       Zhen Hua, Asian Journal of Physics, 2022<br/>
       <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Read more</a>
     </td>
