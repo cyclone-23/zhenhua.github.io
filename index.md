@@ -28,7 +28,8 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
       <strong>Comparative Cancer Chemosensitivity Phenotypes using Low-Coherence Digital Holography</strong><br/>
       Zhen Hua et al., Scientific Reports, 2024<br/>
       <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Paper</a> |
-     <a href="https://github.itap.purdue.edu/Nolte-Group/onekey" target="_blank">Github</a>
+     <a href="https://github.itap.purdue.edu/Nolte-Group/onekey" target="_blank">Github</a> |
+     <a href="https://www.eurekalert.org/news-releases/1034345" target="_blank">EurekAlert! News</a> 
     </td>
   </tr>
 
@@ -37,7 +38,8 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Development of Biodynamic Imaging for Phenotypic Profiling of Living Tissue</strong><br/>
       Zhen Hua, Ph.D. Thesis, Purdue University<br/>
-      <a href="assets/papers/Thesis_ZhenHua.pdf" target="_blank">Thesis</a>
+      <a href="assets/papers/Thesis_ZhenHua.pdf" target="_blank">Thesis</a> |
+     <a href="https://github.itap.purdue.edu/Nolte-Group/onekey" target="_blank">Github</a>
     </td>
   </tr>
 
@@ -46,7 +48,8 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Doppler Imaging Detects Bacterial Infection of Living Tissue</strong><br/>
       Honggu Choi, Zhen Hua et al., Communications Biology, 2021<br/>
-      <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Paper</a>
+      <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Paper</a> |
+     <a href="https://phys.org/news/2021-02-scientists-doppler-peer-cells.html" target="_blank">Phys.org News</a>
     </td>
   </tr>
 
