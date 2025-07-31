@@ -21,14 +21,6 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 
 <table>
-  <tr>
-    <td><img class="project-img" src="assets/img/ARVO_2025.png"/></td>
-    <td class="project-text">
-      <strong>Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG</strong><br/>
-      Zhen Hua, ARVO, 2025<br/>
-      <a href="projects.html" target="_blank">Read more</a>
-    </td>
-  </tr>
 
   <tr>
     <td><img class="project-img" src="assets/img/Scientific_Reports_2024.png"/></td>
@@ -74,7 +66,18 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
       <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Read more</a>
     </td>
   </tr>
+  
+  <tr>
+    <td><img class="project-img" src="assets/img/ARVO_2025.png"/></td>
+    <td class="project-text">
+      <strong>Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG</strong><br/>
+      Zhen Hua, ARVO, 2025<br/>
+      <a href="projects.html" target="_blank">Read more</a>
+    </td>
+  </tr>
 </table>
+
+
 
 <style>
   .project-img {
