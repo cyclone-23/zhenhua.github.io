@@ -24,7 +24,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td>
       <strong>Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG</strong><br/>
       Zhen Hua, ARVO 2025<br/>
-      <a href="assets/papers/ARVO_2025.pdf" target="_blank">Read more</a>
+      [Read more](projects.md)
     </td>
   </tr>
   <tr>
