@@ -18,58 +18,73 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 ## Publications and Work in Progress
 
+<style>
+  .project-img {
+    width: 800px;
+  }
+  .project-text {
+    font-size: 0.8em;
+    vertical-align: top;
+    padding-left: 15px;
+  }
+</style>
+
 <table>
   <tr>
-    <td><img src="assets/img/ARVO_2025.png" width="400"/></td>
-    <td>
+    <td><img class="project-img" src="assets/img/ARVO_2025.png"/></td>
+    <td class="project-text">
       <strong>Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG</strong><br/>
       Zhen Hua, ARVO 2025<br/>
       <a href="projects.html" target="_blank">Read more</a>
     </td>
   </tr>
+
   <tr>
-    <td><img src="assets/img/Scientific_Reports_2024.png" width="400"/></td>
-    <td>
+    <td><img class="project-img" src="assets/img/Scientific_Reports_2024.png"/></td>
+    <td class="project-text">
       <strong>Comparative Cancer Chemosensitivity Phenotypes using Low-Coherence Digital Holography</strong><br/>
       Zhen Hua et al., Scientific Reports, 2024<br/>
-      <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Read more</a> | 
-      <a href="https://github.com/yourusername/project2" target="_blank">GitHub</a>
+      <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Read more</a>
     </td>
   </tr>
+
   <tr>
-    <td><img src="assets/img/Thesis_ZhenHua.png" width="400"/></td>
-    <td>
+    <td><img class="project-img" src="assets/img/Thesis_ZhenHua.png"/></td>
+    <td class="project-text">
       <strong>Doppler Spectroscopy and Optical Simulation of Intracellular Transport</strong><br/>
       Zhen Hua, Ph.D. Thesis, Purdue University<br/>
       <a href="assets/papers/Thesis_ZhenHua.pdf" target="_blank">Read more</a>
     </td>
   </tr>
+
   <tr>
-    <td><img src="assets/img/Communications_Biology_2021.png" width="400"/></td>
-    <td>
+    <td><img class="project-img" src="assets/img/Communications_Biology_2021.png"/></td>
+    <td class="project-text">
       <strong>Doppler Imaging Detects Bacterial Infection of Living Tissue</strong><br/>
       Zhen Hua et al., Communications Biology, 2021<br/>
       <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Read more</a>
     </td>
   </tr>
+
   <tr>
-    <td><img src="assets/img/Scientific_Reports_2025.png" width="400"/></td>
-    <td>
+    <td><img class="project-img" src="assets/img/Scientific_Reports_2025.png"/></td>
+    <td class="project-text">
       <strong>Comparative Oncology Chemosensitivity Assay using Dynamic Light Scattering</strong><br/>
       Zhen Hua et al., Scientific Reports, 2025<br/>
       <a href="assets/papers/scientific_reports_2025.pdf" target="_blank">Read more</a>
     </td>
   </tr>
+
   <tr>
-    <td><img src="assets/img/Asian_Journal_of_Physics_2022.png" width="400"/></td>
-    <td>
+    <td><img class="project-img" src="assets/img/Asian_Journal_of_Physics_2022.png"/></td>
+    <td class="project-text">
       <strong>Dynamic Contrast Optical Coherence Tomography for Tumor Tissue Classification</strong><br/>
       Zhen Hua, Asian Journal of Physics, 2022<br/>
-      <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Read more</a> | 
-      <a href="https://github.com/yourusername/project6" target="_blank">GitHub</a>
+      <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Read more</a>
     </td>
   </tr>
 </table>
+
 
 
 ---
