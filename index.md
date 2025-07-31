@@ -89,7 +89,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 ---
 
-## Conference Proceedings
+## Conference Proceedings and Invited Talks
 
 - Zhen Hua et al. *Characterizing Adaptive Optics Choriocapillaris Images Using Feature Engineering*. **ARVO Imaging in the Eye Conference**, <a href="https://iovs.arvojournals.org/article.aspx?articleid=2810554" target="_blank">2025</a>
 - Sierra M. Hyland, Zhen Hua et al. *Structural assessment of cone photoreceptors near flecks in Stargardt disease using adaptive optics*. **ARVO Annual Meeting**, <a href="https://iovs.arvojournals.org/article.aspx?articleid=2808608" target="_blank">2025</a>
@@ -102,7 +102,3 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 - Zhen Hua et al. *Phenotyping Drug Response of Living Tissue based on Tissue-Dynamics Spectroscopy*. **SPIE Photonics West**, [2022](https://doi.org/10.1117/12.2610371)
 - Zhen Hua et al. *Doppler Spectroscopy of Intracellular Dynamics During Chemotherapy in Tumor Biopsies*. **American Physical Society (APS) March Meeting**, [2020](https://meetings.aps.org/Meeting/MAR20/Session/B06.7)
 - Zhen Hua et al. *Doppler Spectroscopy of Intracellular Motion in Revived Flash-Frozen Cancer Tissues*. **American Physical Society (APS) March Meeting**, [2019](https://ui.adsabs.harvard.edu/abs/2019APS..MARR64004H/abstract)
-
-
-
-
