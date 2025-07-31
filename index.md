@@ -49,8 +49,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td>
       <strong>Doppler Imaging Detects Bacterial Infection of Living Tissue</strong><br/>
       Zhen Hua et al., Communications Biology, 2021<br/>
-      <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Read more</a> | 
-      <a href="https://github.com/yourusername/project4" target="_blank">GitHub</a>
+      <a href="assets/papers/Communications_Biology_2021.pdf" target="_blank">Read more</a>
     </td>
   </tr>
   <tr>
