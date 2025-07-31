@@ -69,7 +69,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
   <tr>
     <td><img class="project-img" src="assets/img/Asian_Journal_of_Physics_2022.png"/></td>
     <td class="project-text">
-      <strong>Chemosensitivity Testing of Revived Fresh-Frozen Biopsies using Digital Speckle Holography</strong><br/>
+      <strong>Chemosensitivity Testing of Revived Snap-Frozen Biopsies using Digital Speckle Holography</strong><br/>
       Zhen Hua, Asian Journal of Physics, 2022<br/>
       <a href="assets/papers/Asian_Journal_of_Physics_2022.pdf" target="_blank">Read more</a>
     </td>
@@ -78,10 +78,10 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 <style>
   .project-img {
-    width: 800px;
+    width: 1000px;
   }
   .project-text {
-    font-size: 0.8em;
+    font-size: 0.6em;
     vertical-align: top;
     padding-left: 15px;
   }
