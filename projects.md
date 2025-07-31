@@ -3,9 +3,9 @@ layout: default
 title: Projects
 ---
 
-# AO-ICG Retinal Disease Classification
+# Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG
 
-<img src="assets/img/ARVO_2025.png" width="1000">
+<img src="assets/img/ARVO_2025.png" width="800">
 
 **Authors**: Zhen Hua, Tao Liu, Joanne Li, Nancy Aguilera, Andrew J. Bower, Catherine A. Cukras, Robert B. Hufnagel, Emily Y. Chew, Brian P. Brooks, Wadih M. Zein, Laryssa A. Huryn, Johnny Tam  
 **Presented at**: ARVO 2025, National Eye Institute, NIH
@@ -20,7 +20,7 @@ Adaptive optics enhanced indocyanine green (AO-ICG) angiography enables high-res
 
 ###  Methods
 
-- **Imaging**: AO-ICG angiography with RPE-subtracted contrast
+- **Imaging**: AO-ICG angiography
 - **Subjects**: 36 participants (19 healthy, 17 diseased including AMD and genetic disorders)
 - **Preprocessing**: Flow-void enhancement filtering
 - **Analysis**:
