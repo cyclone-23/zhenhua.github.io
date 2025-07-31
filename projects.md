@@ -12,4 +12,6 @@ title: Projects
 
 ---
 
+This ongoing project explores the use of adaptive optics–enhanced indocyanine green angiography (AO-ICG) to visualize and quantify microvascular structure in the human choriocapillaris. By applying interpretable spatial frequency analysis, we aim to extract biologically meaningful features that may assist in characterizing early vascular changes associated with retinal disease.
 
+Preliminary results were shared at ARVO 2025. Further analysis and validation are underway.
