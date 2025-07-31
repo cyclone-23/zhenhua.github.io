@@ -20,7 +20,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 <table>
   <tr>
-    <td><img src="assets/img/ARVO_2025.png" width="200"/></td>
+    <td><img src="assets/img/ARVO_2025.png" width="400"/></td>
     <td>
       <strong>Quantitative Analysis of the Choriocapillaris Meshwork using AO-ICG</strong><br/>
       Zhen Hua, ARVO 2025<br/>
@@ -28,7 +28,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     </td>
   </tr>
   <tr>
-    <td><img src="assets/img/Scientific_Reports_2024.png" width="200"/></td>
+    <td><img src="assets/img/Scientific_Reports_2024.png" width="400"/></td>
     <td>
       <strong>Comparative Cancer Chemosensitivity Phenotypes using Low-Coherence Digital Holography</strong><br/>
       Zhen Hua et al., Scientific Reports, 2024<br/>
@@ -37,7 +37,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     </td>
   </tr>
   <tr>
-    <td><img src="assets/img/Thesis_ZhenHua.png" width="200"/></td>
+    <td><img src="assets/img/Thesis_ZhenHua.png" width="400"/></td>
     <td>
       <strong>Doppler Spectroscopy and Optical Simulation of Intracellular Transport</strong><br/>
       Zhen Hua, Ph.D. Thesis, Purdue University<br/>
@@ -45,7 +45,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     </td>
   </tr>
   <tr>
-    <td><img src="assets/img/Communications_Biology_2021.png" width="200"/></td>
+    <td><img src="assets/img/Communications_Biology_2021.png" width="400"/></td>
     <td>
       <strong>Doppler Imaging Detects Bacterial Infection of Living Tissue</strong><br/>
       Zhen Hua et al., Communications Biology, 2021<br/>
@@ -53,7 +53,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     </td>
   </tr>
   <tr>
-    <td><img src="assets/img/Scientific_Reports_2025.png" width="200"/></td>
+    <td><img src="assets/img/Scientific_Reports_2025.png" width="400"/></td>
     <td>
       <strong>Comparative Oncology Chemosensitivity Assay using Dynamic Light Scattering</strong><br/>
       Zhen Hua et al., Scientific Reports, 2025<br/>
@@ -61,7 +61,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     </td>
   </tr>
   <tr>
-    <td><img src="assets/img/Asian_Journal_of_Physics_2022.png" width="200"/></td>
+    <td><img src="assets/img/Asian_Journal_of_Physics_2022.png" width="400"/></td>
     <td>
       <strong>Dynamic Contrast Optical Coherence Tomography for Tumor Tissue Classification</strong><br/>
       Zhen Hua, Asian Journal of Physics, 2022<br/>
