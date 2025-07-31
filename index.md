@@ -18,16 +18,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 ## Publications and Work in Progress
 
-<style>
-  .project-img {
-    width: 800px;
-  }
-  .project-text {
-    font-size: 0.8em;
-    vertical-align: top;
-    padding-left: 15px;
-  }
-</style>
+
 
 <table>
   <tr>
@@ -85,7 +76,16 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
   </tr>
 </table>
 
-
+<style>
+  .project-img {
+    width: 800px;
+  }
+  .project-text {
+    font-size: 0.8em;
+    vertical-align: top;
+    padding-left: 15px;
+  }
+</style>
 
 ---
 
