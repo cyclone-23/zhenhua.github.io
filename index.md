@@ -16,7 +16,7 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 
 ---
 
-## Publications and Work in Progress <a href="projects.html"><span style="font-size: 0.6em;">(View my Projects)</span></a>
+## Publications and Work in Progress
 
 <table>
   <tr>
