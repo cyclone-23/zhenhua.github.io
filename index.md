@@ -3,8 +3,6 @@ layout: default
 title: Zhen Hua
 ---
 
-# 👋 Zhen Hua
-
 ✉️ [huazhensdu@gmail.com](mailto:huazhensdu@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/zhenhua23)
 
