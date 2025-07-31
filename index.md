@@ -27,7 +27,8 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
     <td class="project-text">
       <strong>Comparative Cancer Chemosensitivity Phenotypes using Low-Coherence Digital Holography</strong><br/>
       Zhen Hua et al., Scientific Reports, 2024<br/>
-      <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Read more</a>
+      <a href="assets/papers/Scientific_Reports_2024.pdf" target="_blank">Read more</a> |
+     <a href="https://github.itap.purdue.edu/Nolte-Group/onekey" target="_blank">Github</a>
     </td>
   </tr>
 
