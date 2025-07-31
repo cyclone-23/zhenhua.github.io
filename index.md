@@ -78,25 +78,15 @@ Computational physicist and AI-driven biomedical researcher with a Ph.D. in Phys
 ## Conference Proceedings
 
 - Zhen Hua et al. *Characterizing Adaptive Optics Choriocapillaris Images Using Feature Engineering*. **ARVO Imaging in the Eye Conference**, <a href="https://iovs.arvojournals.org/article.aspx?articleid=2810554" target="_blank">2025</a>
-
 - Sierra M. Hyland, Zhen Hua et al. *Structural assessment of cone photoreceptors near flecks in Stargardt disease using adaptive optics*. **ARVO Annual Meeting**, <a href="https://iovs.arvojournals.org/article.aspx?articleid=2808608" target="_blank">2025</a>
-
 - Zhen Hua et al. *Quantitative Analysis of the Choriocapillaris Meshwork in Healthy and Diseased Eyes using AO-ICGA*. **ARVO Annual Meeting**, <a href="https://iovs.arvojournals.org/article.aspx?articleid=2798073" target="_blank">2024</a>
-
 - Dawith Lim, Zhen Hua et al. *Observing Cross-Species Cross-Cancer Chemosensitivity Signatures with Dynamic-Contrast OCT*. **SPIE BiOS (OCT and Coherence Domain Imaging XXVIII)**, [2024](https://doi.org/10.1117/12.3002602)
-
 - Dawith Lim, Zhen Hua et al. *Doppler Spectroscopy of Intracellular Dynamics Detects Pathogenic Infection and Antibiotic Resistance*. **CLEO Conference**, [2024](https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2024-ATh3B.4)
-  
 - Zhen Hua et al. *Classifying Tumor Heterogeneity of Human Esophageal Cancer Biopsies by Dynamic Contrast OCT with Deep Learning*. **SPIE Photonics West**, [2023](https://doi.org/10.1117/12.2647602)
-
 - David Nolte, Zhen Hua et al. *Coherence-Gated Digital Holography for Personalized Cancer Care*. **OSA Digital Holography and 3D Imaging**, [2023](https://doi.org/10.1364/DH.2023.HM1C.2)
-
-- Zhen Hua et al. *Biodynamic Monitoring of Bacterial invasion of Living Tissue*. **American Physical Society (APS) March Meeting**, [2023](https://ui.adsabs.harvard.edu/abs/2023APS..MARN06009H/abstract)
-  
+- Zhen Hua et al. *Biodynamic Monitoring of Bacterial invasion of Living Tissue*. **American Physical Society (APS) March Meeting**, [2023](https://ui.adsabs.harvard.edu/abs/2023APS..MARN06009H/abstract) 
 - Zhen Hua et al. *Phenotyping Drug Response of Living Tissue based on Tissue-Dynamics Spectroscopy*. **SPIE Photonics West**, [2022](https://doi.org/10.1117/12.2610371)
-
 - Zhen Hua et al. *Doppler Spectroscopy of Intracellular Dynamics During Chemotherapy in Tumor Biopsies*. **American Physical Society (APS) March Meeting**, [2020](https://meetings.aps.org/Meeting/MAR20/Session/B06.7)
-
 - Zhen Hua et al. *Doppler Spectroscopy of Intracellular Motion in Revived Flash-Frozen Cancer Tissues*. **American Physical Society (APS) March Meeting**, [2019](https://ui.adsabs.harvard.edu/abs/2019APS..MARR64004H/abstract)
 
 
