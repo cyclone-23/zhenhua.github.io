@@ -5,7 +5,6 @@ title: Zhen Hua
 
 # 👋 Zhen Hua
 
-📞 765-337-6746  
 ✉️ [huazhensdu@gmail.com](mailto:huazhensdu@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/zhenhua23)
 
