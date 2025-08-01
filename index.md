@@ -12,7 +12,9 @@ title: Zhen Hua
 
 ## About me
 
-Computational physicist and AI-driven biomedical researcher with a Ph.D. in Physics and 8+ years of experience integrating simulation, deep learning, and signal modeling to investigate structural dynamics in high-resolution biological imaging. Specialized in modeling tissue deformation, intracellular transport, and biomechanical response using physics-based simulation frameworks and interpretable machine learning techniques. Experienced in both hypothesis-driven mechanobiology and data-driven phenotype discovery.
+I completed my Ph.D. in biophysics and biomedical imaging at Purdue University in 2022. Since then, I’ve been a postdoctoral fellow in Johnny Tam’s Lab at <a href="projects.html" target="_blank">National Eye Institute (NIH)</a>,applying adaptive-optics techniques to advance quantitative vision science.
+
+My research of interest is integrating signal processing, physics-based simulation, and deep learning to probe complex biological systems—from intracellular dynamics in living tissue to high-resolution structural imaging. I build stremlined Python pipelines that extract interpretable features to drive both research insights and clinical applications.
 
 ---
 
