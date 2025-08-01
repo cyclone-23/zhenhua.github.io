@@ -12,7 +12,7 @@ title: Zhen Hua
 
 ## About me
 
-I’ve been a postdoctoral fellow in Johnny Tam’s Lab at <a href="https://www.nei.nih.gov/research/research-labs-and-branches/clinical-and-translational-imaging-section" target="_blank">National Eye Institute (NIH)</a> starting from June 2023, applying adaptive-optics techniques to advance quantitative vision science.
+I’ve been a postdoctoral fellow in <a href="https://www.nei.nih.gov/research/research-labs-and-branches/clinical-and-translational-imaging-section" target="_blank">Dr. Johnny Tam’s Lab</a> at <a href="https://www.nei.nih.gov/" target="_blank">National Eye Institute (NIH)</a> starting from June 2023, applying adaptive-optics techniques to advance quantitative vision science.
 
 I have 8+ years of experience of integrating signal processing, physics-based simulation, and deep learning to probe complex biological systems—from intracellular dynamics in living tissue to high-resolution structural imaging. My research focuses on developing streamlined Python pipelines that extract interpretable biomarkers to drive both scientific discovery and clinical translation.
 
