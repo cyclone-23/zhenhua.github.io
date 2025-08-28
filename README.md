@@ -1,4 +1,3 @@
 # zhenhua23.github.io
 
-### Education
-Physics, PhD
+This is my personal website!
