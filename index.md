@@ -5,7 +5,7 @@ title: Zhen Hua
 
 <p style="font-size:0.9em; color:gray;">
  <a href="mailto:huazhensdu@gmail.com">Email</a> | 
-<a href="https://www.linkedin.com/in/zhenhua23" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/zhenhua23" target="_blank">LinkedIn</a> 
 </p>
 
 ---
